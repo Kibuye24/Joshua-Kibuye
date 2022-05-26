@@ -1,3 +1,3 @@
-# Kibuye-personal-website
+# Joshua-Kibuye
 ## Website link below:
-https://kibuye24.github.io/Kibuye-personal-website/
+https://kibuye24.github.io/Joshua-Kibuye/
